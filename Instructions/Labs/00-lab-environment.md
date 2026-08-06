@@ -69,7 +69,10 @@ Use the credentials provided by your authorized lab host to sign up for a Dynami
 
 1. Enter the **Username** provided by your lab host, select the checkbox to agree to the terms, and then select **Start your free trial**.
 
-1. Enter the **Password** provided by your lab host, and then select **Sign in**.
+    > [!NOTE]
+    > If you see **Please enter a work account for the best trial experience**, select **Set up a new account**. Follow the prompts to create the account and complete all required verification, including multi-factor authentication (MFA). When setup is complete, continue the trial sign-up with the new account credentials.
+
+1. Enter the password for the account you used to sign up, and then select **Sign in**.
 
 1. If prompted to stay signed in, select **Yes**.
 
