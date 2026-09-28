@@ -32,7 +32,7 @@ The agent prerequisites are checked from within Sales Hub itself — the wizard 
 
 1. A **Prerequisites** page opens listing all required items. All of these should have a **green check mark** next to them by default - that means that the setting is enabled and you don't need to take any extra action. If you do not see a green check mark, select **Set up** to enable these features. (Ask your instructor if you need help.)
    - **Microsoft Copilot Studio capacity**: Select **Set up** to open the Power Platform admin center and allocate Copilot Studio message capacity for your environment.
-   - **Move data across regions**: Select **Accept terms** to open the Power Platform admin center and enable **Move data across regions** under **Generative AI features**.
+   - **Move data across regions**: Select **Accept terms** to open the Power Platform admin center and enable **Microsoft 365 services** under **Generative AI features**.
    - **AI prompts**: Confirm that **AI prompts** is enabled in the same **Features** page.
 
 1. Once all prerequisites have a green check mark, the **Create** button on the AI agents page becomes available. Select **Create**.
