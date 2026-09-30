@@ -101,7 +101,7 @@ You're now on the agent configuration page. Work through each section from top t
 
 1. In the **Agent profile** section, fill in the following:
    - **Agent name**: Contoso Coffee Lead Research Agent
-   - **What should this agent do**: Research inbound trade show leads, evaluate them against Contoso Coffee's target customer profile, and prepare research summaries and draft outreach emails for sellers.
+   - **What should this agent do ?**: Research inbound trade show leads, evaluate them against Contoso Coffee's target customer profile, and prepare research summaries and draft outreach emails for sellers.
    - **Agent user**: Select the **Contoso Coffee Sales Qualification Agent** app user you created in Task 3. (If it doesn't show up as an option, try refreshing your browser.)
    - **Agent language**: English
 
@@ -178,10 +178,10 @@ You're now on the agent configuration page. Work through each section from top t
 
 1. Select **Start agent** in the upper-right corner, and then select **Start agent** again to confirm.
 
-1. Select **Go to agent list**.
+1. Select **Go to agent list** when it´s complete.
 
    > [!NOTE]
-   > Starting the agent may take several minutes. Wait for the status to change from **Saving** to **On** before proceeding.
+   > Starting the agent may take several minutes. Wait for the status to change from **Starting agent** to **On** before proceeding.
 
 ## Task 5: View a lead being worked on by the agent
 
@@ -216,7 +216,7 @@ You're now on the agent configuration page. Work through each section from top t
 
 ## Task 6: See agent insights
 
-1. In the bottom-left corner, select the area selector and switch it to **App Settings**. Under **General settings**, select **Dynamics 365 AI hub**.
+1. In the bottom-left corner, select the area selector and switch it to **App Settings**. Under **General settings**, select **Dynamics 365 AI hub** > **Go to Dynamics 365 AI hub**.
 
 1. On the **AI optimization hub** tile, select **See insights**.
 
